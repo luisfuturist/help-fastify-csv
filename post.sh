@@ -1,0 +1,1 @@
+curl -X POST -F "image=@data.csv" http://localhost:3000/upload-csv
